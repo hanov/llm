@@ -4,7 +4,7 @@ Goal: To become acquainted with different models apart from OpenAI's GPT. All mo
 
 
 Steps to run: 
-- Intsall docker
+- Install docker
 - Start ollama:
 https://ollama.com/blog/ollama-is-now-available-as-an-official-docker-image
 
